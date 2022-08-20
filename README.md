@@ -10,6 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=Flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=Flat&logo=react&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=Flat&logo=react%20query&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=Flat&logo=styled-components&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=Flat&logo=visual-studio-code&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sso-hyeon&layout=compact)](https://github.com/sso-hyeon/github-readme-stats)
